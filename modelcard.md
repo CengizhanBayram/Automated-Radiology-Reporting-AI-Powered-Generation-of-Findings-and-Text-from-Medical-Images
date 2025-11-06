@@ -262,4 +262,4 @@ RAG: Retrieval-Augmented Generation, model çıktısını metin arama ile zengin
 More Information
 Bu kart, aynı projede iki farklı radyoloji modelini birlikte dokümante etmek için yazıldı. Gerçek üretim ortamında HF’de eğittiğiniz MIMIC-CXR modelinin kullanılması, demo DenseNet’in ise sadece akış testi olarak kalması önerilir.
 
-Kodu kopyala
+
