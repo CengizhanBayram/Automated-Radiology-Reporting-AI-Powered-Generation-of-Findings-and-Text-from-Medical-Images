@@ -35,9 +35,8 @@ Both paths can be used in the same project: one starts from the **image**, the o
 └── README.md                          # this file
 ````
 
-> **Note:** your screenshot shows the model here:
 > `rag+densenet121/densenet_model/chestmnist_best.pt`
-> and `app.py` is written to load exactly from there.
+
 
 ---
 
